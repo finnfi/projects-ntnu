@@ -1,6 +1,6 @@
 # Completed Projects at NTNU
 
-This GitHub repository contains reports on projects that we (Tarek El-Agroudi and Finn Gross Maurer) completed while studying at the Norwegian University of Science and Technology (NTNU) as part of their 5-year "Cybernetics and Robotics" program. The projects listed below were completed during the first 3.5 years of the program.
+This GitHub repository contains reports on projects that we (Tarek El-Agroudi and Finn Gross Maurer) completed while studying at the Norwegian University of Science and Technology (NTNU) as part of our 5-year "Cybernetics and Robotics" program. The projects listed below were completed during the first 3.5 years of the program.
 
 Projects with corresponding grades:
 
